@@ -6,7 +6,12 @@ $(function() {
     // Don't change any other code in this file. You will be sad.
 
     // var current = (data.currently.);
-    var markup = "current weather" + {data.};
+
+    var markup = alert("the current temperture is " + data.currently.apparentTemperature);
+
+    // var markup = GetObject([data])
+
+    // "current weather" + ;
 
 
  // $(function() {
